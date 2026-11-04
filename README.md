@@ -5,14 +5,71 @@ Site institucional demonstrativo para uma barbearia, desenvolvido em PHP, HTML, 
 
 > **Importante antes de publicar:** este é um projeto de demonstração. Atualize nome, telefone, endereço, horários, Instagram, preços, descrições e imagens para os dados reais da barbearia. Não divulgue informações fictícias como se fossem verdadeiras.
 
-## Demonstração
 
-- Página inicial com apresentação do negócio e serviços em destaque.
-- Página de serviços com preços e duração estimada carregados do MySQL.
-- Página de contato com formulário que prepara uma mensagem no WhatsApp.
-- Layout responsivo para celular, tablet e computador.
+## Prévia visual do projeto
 
-Adicione capturas de tela reais do projeto nesta seção depois de executar e personalizar o site. Sugestão: `assets/images/preview-home.png` e `assets/images/preview-mobile.png`.
+Conheça a identidade visual e as principais páginas do Barbearia Studio Visual. O projeto foi desenvolvido para apresentar os serviços da barbearia de forma profissional, facilitar a navegação e incentivar o contato e as solicitações de agendamento.
+
+### Página inicial
+
+<!-- PRINT 1: CAPTURA GRANDE DA PÁGINA INICIAL NO COMPUTADOR -->
+<p align="center">
+  <img src="assets/images/portfolio/home-desktop.png"
+       alt="Página inicial do Barbearia Studio Visual"
+       width="100%">
+</p>
+
+<p align="center">
+  <em>Apresentação da barbearia, identidade visual e destaques dos serviços.</em>
+</p>
+
+### Conheça as páginas do site
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Página de serviços</strong><br><br>
+      <!-- PRINT 2: PÁGINA DE SERVIÇOS -->
+      <img src="assets/images/portfolio/servicos-desktop.png"
+           alt="Página de serviços"
+           width="100%">
+      <br>
+      <em>Serviços, descrições, preços e duração estimada.</em>
+    </td>
+    <td align="center" width="50%">
+      <strong>Agendamento</strong><br><br>
+      <!-- PRINT 3: FORMULÁRIO DE AGENDAMENTO -->
+      <img src="assets/images/portfolio/agendamento-desktop.png"
+           alt="Formulário de agendamento"
+           width="100%">
+      <br>
+      <em>Solicitação de horário com encaminhamento para o WhatsApp.</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Página de contato</strong><br><br>
+      <!-- PRINT 4: PÁGINA DE CONTATO -->
+      <img src="assets/images/portfolio/contato-desktop.png"
+           alt="Página de contato"
+           width="100%">
+      <br>
+      <em>Informações e canais de contato da barbearia.</em>
+    </td>
+    <td align="center" width="50%">
+      <strong>Versão para celular</strong><br><br>
+      <!-- PRINT 5: CAPTURA DO SITE NO CELULAR -->
+      <img src="assets/images/portfolio/home-mobile.png"
+           alt="Versão mobile do site"
+           width="55%">
+      <br>
+      <em>Layout adaptado para dispositivos móveis.</em>
+    </td>
+  </tr>
+</table>
+
+> As imagens acima devem ser substituídas por capturas reais do projeto em funcionamento.
+
 
 ## Funcionalidades
 
