@@ -1,9 +1,7 @@
 
 # Barbearia Studio Visual
 
-Site institucional demonstrativo para uma barbearia, desenvolvido em PHP, HTML, CSS e JavaScript. O projeto foi pensado para apresentar os serviços com clareza, facilitar o contato pelo WhatsApp e permitir que os serviços sejam administrados diretamente no banco de dados.
-
-> **Importante antes de publicar:** este é um projeto de demonstração. Atualize nome, telefone, endereço, horários, Instagram, preços, descrições e imagens para os dados reais da barbearia. Não divulgue informações fictícias como se fossem verdadeiras.
+Site institucional demonstrativo para uma barbearia fictícia, desenvolvido em PHP, HTML, CSS e JavaScript. O projeto foi pensado para apresentar os serviços com clareza, facilitar o contato pelo WhatsApp e permitir que os serviços sejam administrados diretamente no banco de dados.
 
 
 ## Prévia visual do projeto
