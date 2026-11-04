@@ -14,7 +14,7 @@ Conheça a identidade visual e as principais páginas do Barbearia Studio Visual
 
 <!-- PRINT 1: CAPTURA GRANDE DA PÁGINA INICIAL NO COMPUTADOR -->
 <p align="center">
-<img src="barbearia-visual-studio/assets/images/portfolio/home-desktop.png"
+<img src="barbearia-studio-visual/assets/images/portfolio/home-desktop.png"
        alt="Página inicial do Barbearia Studio Visual"
        width="100%">
 </p>
