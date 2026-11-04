@@ -51,19 +51,20 @@ Conheça a identidade visual e as principais páginas do Barbearia Studio Visual
 </p>
 
 
+
 ### 5. Versão mobile
 
 <p align="center">
-  <a href="https://i.ibb.co/twjzRhLM/home-mobile-png.jpg">
-    <img src="https://i.ibb.co/twjzRhLM/home-mobile-png.jpg"
-         alt="Página inicial do Barbearia Studio Visual em dispositivos móveis"
-         width="320">
+  <a href="https://i.ibb.co/nqdBp0Ps/home-mobile-png.jpg">
+    <img src="https://i.ibb.co/nqdBp0Ps/home-mobile-png.jpg"
+         alt="Página inicial do Barbearia Studio Visual em dispositivos móveis">
   </a>
 </p>
 
 <p align="center">
-  <em>Versão responsiva, adaptada para smartphones.</em>
+  <em>Design responsivo, adaptado para smartphones.</em>
 </p>
+
 
 
 ## Funcionalidades
