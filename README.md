@@ -5,71 +5,43 @@ Site institucional demonstrativo para uma barbearia, desenvolvido em PHP, HTML, 
 
 > **Importante antes de publicar:** este é um projeto de demonstração. Atualize nome, telefone, endereço, horários, Instagram, preços, descrições e imagens para os dados reais da barbearia. Não divulgue informações fictícias como se fossem verdadeiras.
 
-
 ## Prévia visual do projeto
 
-Conheça a identidade visual e as principais páginas do Barbearia Studio Visual. O projeto foi desenvolvido para apresentar os serviços da barbearia de forma profissional, facilitar a navegação e incentivar o contato e as solicitações de agendamento.
+Conheça a identidade visual e as principais páginas do Barbearia Studio Visual. O projeto possui um design moderno, navegação intuitiva e recursos para facilitar o contato entre clientes e barbearia.
 
-### Página inicial
+### 1. Página inicial
 
-<!-- PRINT 1: CAPTURA GRANDE DA PÁGINA INICIAL NO COMPUTADOR -->
 <p align="center">
-<img src="https://i.ibb.co/Tnhp13N/Captura-de-tela-2026-11-04-141508.png"
+  <img src="https://i.ibb.co/XfNv72vD/Captura-de-tela-2026-11-04-141446.png"
        alt="Página inicial do Barbearia Studio Visual"
        width="100%">
 </p>
 
+### 2. Página de serviços
+
 <p align="center">
-  <em>Apresentação da barbearia, identidade visual e destaques dos serviços.</em>
+  <img src="https://i.ibb.co/Tnhp13N/Captura-de-tela-2026-11-04-141508.png"
+       alt="Página de serviços do Barbearia Studio Visual"
+       width="100%">
 </p>
 
-### Conheça as páginas do site
+### 3. Agendamento de horários
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Página de serviços</strong><br><br>
-      <!-- PRINT 2: PÁGINA DE SERVIÇOS -->
-      <img src="https://i.ibb.co/XfNv72vD/Captura-de-tela-2026-11-04-141446.png"
-           alt="Página de serviços"
-           width="100%">
-      <br>
-      <em>Serviços, descrições, preços e duração estimada.</em>
-    </td>
-    <td align="center" width="50%">
-      <strong>Agendamento</strong><br><br>
-      <!-- PRINT 3: FORMULÁRIO DE AGENDAMENTO -->
-      <img src="https://i.ibb.co/tn7mg3p/Captura-de-tela-2026-11-04-141554.png"
-           alt="Formulário de agendamento"
-           width="100%">
-      <br>
-      <em>Solicitação de horário com encaminhamento para o WhatsApp.</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Página de contato</strong><br><br>
-      <!-- PRINT 4: PÁGINA DE CONTATO -->
-      <img src="https://i.ibb.co/p6x4dfZ4/Captura-de-tela-2026-11-04-141629.png"
-           alt="Página de contato"
-           width="100%">
-      <br>
-      <em>Informações e canais de contato da barbearia.</em>
-    </td>
-    <td align="center" width="50%">
-      <strong>Versão para celular</strong><br><br>
-      <!-- PRINT 5: CAPTURA DO SITE NO CELULAR -->
-      <img src="assets/images/portfolio/home-mobile.png"
-           alt="Versão mobile do site"
-           width="55%">
-      <br>
-      <em>Layout adaptado para dispositivos móveis.</em>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://i.ibb.co/tn7mg3p/Captura-de-tela-2026-11-04-141554.png"
+       alt="Formulário de agendamento do Barbearia Studio Visual"
+       width="100%">
+</p>
 
-> As imagens acima devem ser substituídas por capturas reais do projeto em funcionamento.
+### 4. Página de contato
 
+<p align="center">
+  <img src="https://i.ibb.co/p6x4dfZ4/Captura-de-tela-2026-11-04-141629.png"
+       alt="Página de contato do Barbearia Studio Visual"
+       width="100%">
+</p>
+
+<em>Capturas de tela da versão desktop. Uma captura da versão mobile poderá ser adicionada futuramente.</em>
 
 ## Funcionalidades
 
