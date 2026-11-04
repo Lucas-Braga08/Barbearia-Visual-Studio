@@ -14,7 +14,7 @@ Conheça a identidade visual e as principais páginas do Barbearia Studio Visual
 
 <!-- PRINT 1: CAPTURA GRANDE DA PÁGINA INICIAL NO COMPUTADOR -->
 <p align="center">
-<img src="barbearia-studio-visual/assets/images/Portfolio/home-desktop.png"
+<img src="https://i.ibb.co/Tnhp13N/Captura-de-tela-2026-11-04-141508.png"
        alt="Página inicial do Barbearia Studio Visual"
        width="100%">
 </p>
@@ -30,7 +30,7 @@ Conheça a identidade visual e as principais páginas do Barbearia Studio Visual
     <td align="center" width="50%">
       <strong>Página de serviços</strong><br><br>
       <!-- PRINT 2: PÁGINA DE SERVIÇOS -->
-      <img src="assets/images/portfolio/servicos-desktop.png"
+      <img src="https://i.ibb.co/XfNv72vD/Captura-de-tela-2026-11-04-141446.png"
            alt="Página de serviços"
            width="100%">
       <br>
@@ -39,7 +39,7 @@ Conheça a identidade visual e as principais páginas do Barbearia Studio Visual
     <td align="center" width="50%">
       <strong>Agendamento</strong><br><br>
       <!-- PRINT 3: FORMULÁRIO DE AGENDAMENTO -->
-      <img src="assets/images/portfolio/agendamento-desktop.png"
+      <img src="https://i.ibb.co/tn7mg3p/Captura-de-tela-2026-11-04-141554.png"
            alt="Formulário de agendamento"
            width="100%">
       <br>
@@ -50,7 +50,7 @@ Conheça a identidade visual e as principais páginas do Barbearia Studio Visual
     <td align="center" width="50%">
       <strong>Página de contato</strong><br><br>
       <!-- PRINT 4: PÁGINA DE CONTATO -->
-      <img src="assets/images/portfolio/contato-desktop.png"
+      <img src="https://i.ibb.co/p6x4dfZ4/Captura-de-tela-2026-11-04-141629.png"
            alt="Página de contato"
            width="100%">
       <br>
